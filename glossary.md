@@ -12,7 +12,7 @@ Closely related to but distinct from the previous "Market Sustainability and Fai
 
 ## ASC Precept
 
-An ASC Precept is any authority which is in charge of providing Adult Social Care to its inhabitants.  These are:
+The ASC Precept is an increase to council tax levels that any authority with responsibility for Adult Social Care can charge its inhabitants.  LAs with social care responsibility are:
 
 - London Boroughs
 - Unitary Authorities
@@ -27,13 +27,13 @@ Council Tax has Bands from A to H, and band D is in the middle. (Note, that does
 
 ## BFL
 
-The Baseling Funding Level is the amount of money that is returned to authorities from Business rates. It's not just a percentage of their business rates though, as this would mean that some authorities would not get enough money. Authorities which make a lot of business rates have some of their business rates redistributed to less well off authorities. This is complicated because different authorities keep different amounts of their business rates depending on if they are in a pilot scheme or not.
+The Baseling Funding Level is the relative need to be funded by business rates for each local authority. It's not just a percentage of the total business rates they collect though, as this would mean that some authorities would not get enough money. Authorities which make a lot of business rates have some of their business rates redistributed (via a tariff) to less well off authorities (via a top-up). Most authorities retain 50% of the growth in business rates above BFLs, except councils that are part of increased business rates retention areas (pilots) who retain a larger share.
 
-I really hope someone else who understands this better fills it in. I do not understand pilot schemes
+I really hope someone else who understands this better fills it in. I do not understand pilot schemes. James has read this now, and he *should* understand pilots.
 
 ## Billing Authority
 
-A billing authority is an authority that actually collects Council Tax. This can be for one of two reasons, either it's a [Unitary Authority](#unitary-authority), or it's the lower tier of a two-tier authority. 
+A billing authority is an authority that actually collects Council Tax (or business rates). This can be for one of two reasons, either it's a [Unitary Authority](#unitary-authority), Metropolitan District or London Borough, or it's the lower tier of a two-tier authority (i.e. a shire district). 
 
 For example, **Cumberland**, a [Unitary Authority](#unitary-authority) collects its own Tax and has no upper-level authority, however **Bromsgrove** is a Shire District in the Shire County of **Worcestershire**. Worcestershire doesn't collect Council Tax itself, however residents of Bromsgrove will pay Council Tax to their LA, who will send a share of the tax to Worcestershire. 
 
@@ -41,7 +41,7 @@ Apparently, it's very important to know that Billing authorities are in charge o
 
 ## Business Rates
 
-Council Tax but for businesses instead of people.
+Tax on the occupation of non-residential property. Agriculture is exempt. Tax rate (known as the multiplier) set nationally, tax administered and collected locally.
 
 ## Core Spending Power
 
@@ -53,21 +53,21 @@ It doesn't *actually* give the amount of money they will recieve, as it estimate
 
 ## Council Tax Base
 
-The number of households in the LA who will pay council tax. 
+The number of households in the LA who will pay council tax, usually expressed in terms of [Band D](#band-d) equivalents (e.g. a band H house is 2 [Band D](#band-d) equivalents). 
 
-For Settlement we use the **Council Tax Base for Tax Setting Purposes**, which is what the tax base would have to be to raise the same amount of money if everyone paid the [Band D](#band-d) rate. Convenient! People often just refer to this as the tax base, which is not at all confusing.
+For Settlement we use the **Council Tax Base for Tax Setting Purposes** from the DLUHC council tax levels statistics, which is the tax base expressed in [Band D](#band-d) equivalents after allowing for losses on collection (people who should pay CT but don't). People often just refer to this as the tax base, which is not at all confusing.
 
 ## Equalisation Grant
 
-This pot of money is combined with the money LAs have nominally raised from the increase in council tax due to being an [ASC Precept](#asc-precpt) to try and make sure that the money is distributed according to the [RNF](#rnf)
+Some authorities are able to raise more from a given increase in council tax levels than others because they have more high value properties. To adjust for this, both Social Care Grant and Improved Better Care Fund ([iBCF](#iBCF)) include an element of equalisation grant. To calculate this grant we first calculate how much each authority would get if the amount of money raised from the [ASC Precept](#asc-precpt) and equalisation grant were both distributed according to the ASC [RNF](#rnf). Any authority that already raises more than this amount from the [ASC Precept](#asc-precpt) does not get any equalistation grant. Any authority that does not receive enough gets equalisation grant.
 
 ## Fire Authority
 
-Fire Authorities are one of the secret extra tiers of the two tier system. Fire responsibilities are often shared between authorities, and so an overarching fire authority recieves funding and provides services to the whole area. Fire authorities are a form of [Precepting Authority](#precepting-authority)
+Fire Authorities are one of the secret extra tiers of the two tier system. Fire responsibilities are often shared between authorities, and so an overarching fire authority recieves funding and provides services to the whole area. Fire authorities are a form of [Precepting Authority](#precepting-authority). A [Unitary Authority](#unitary-authority) or Shire County may also have responsibility for fire services.
 
 ## Funding Guarantee
 
-For the 2023 settlement, the government promised that all LAs would receive at least a 3% increase in CSP. The funding guarantee is a part of services grant allocated beforehand so that this promise is fulfilled.
+For the 2023 settlement, the government promised that all LAs would receive at least a 3% increase in CSP, before having to increase council tax levels. The money for the funding guarantee is taken from services grant, which is part of the funding that the guarantee protects against making for lots of circular fun.
 
 ## iBCF
 
@@ -81,11 +81,11 @@ Specific to council tax, London has its own special three tier system. London Bo
 
 ## New Homes Bonus
 
-In order to encourage house building, the government matches council tax on new build homes (and I think homes which have been brought back into use) for four years. There are other complicated metrics, but essentially the money from this is taken from the total allocation for services grant and shared out to councils to encourage them to build new homes.
+NHB is a government grant to incentivise house building. The money for NHB is taken from the Local Government Departmental Expenditure Limit.
 
 ## Pilot Schemes
 
-Some LAs give up some of their other grants to keep more of their business rates.
+Some LAs give up some of their grants to keep more of their business rates. Also referred to as areas of increased business rates retention.
 
 ## Precepting Authority
 
@@ -131,7 +131,7 @@ Revenue Support Grant is the main actual grant that forms the basis of the settl
 
 ## Services Grant
 
-Originally budgeted as money for [reform](#reform), this would pay for transition costs.
+Grant allocated to all authorities on the basis of their 2013-14 Settlement Funding Assessment ([SFA](#sfa)).
 
 ## SFA
 
@@ -147,7 +147,7 @@ For all your social care needs! Social care grant aims to be distributed accordi
 
 ## Underindexing
 
-Once upon a time, we promised the LAs that we would increase BFLs by RPI. But we don't do that, it increases by CPI, because RPI upsets the treasury.So we pay off the sad LAs with some of the difference that there would have been this year (but importantly, not counting for compound growth)
+Once upon a time, we promised the LAs that we would increase BFLs by RPI. But we don't do that, it increases by CPI (or less than that if HMT intervenes), because RPI upsets the treasury. So we compensate LAs for this lost income via a Section 31 grant. This money features in CSP.
 
 ## Unitary Authority
 
